@@ -60,10 +60,26 @@ Blender is the free and open source 3D creation suite. It supports the  entirety
 
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Resize](images/resize.png)
+
+![Rotate](images/rotate.png)
+
+![Add Object](images/addBall.png)
+
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+#### ![Flow Model and Annotation](images/flow.png)
+
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![Cultural Model and Annotation](images/cultural.png)
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+#### Do's
+
+- Make the button of some function that is often used by user to be more visible, like Add, Move, Rotate, Scale, etc
+- Make the button of some function that is seldom used by user to be more difficult to reach, so the user who is a novice won't accidentally clicked it
+- Add some sort of tips as a pop up window when the user start the program, so user can easily remember how to do something and how not to do something
+- Create a button to open a window that has the keyboard's shortcuts
+
+#### Don't's
+
+- Don't hide the button that often used by user in the toolbar's dropdown menu
+- Don't make a function that can only be called using keyboard shortcuts
