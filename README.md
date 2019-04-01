@@ -83,3 +83,11 @@ Blender is the free and open source 3D creation suite. It supports the  entirety
 
 - Don't hide the button that often used by user in the toolbar's dropdown menu
 - Don't make a function that can only be called using keyboard shortcuts
+
+# Remarks
+> * Thanks for completing all the parts in this assignment.
+> * Just a little comments: Since you use time-codes to annotate the breakdowns in the `Models`, it is better to use time-codes as well in the `Transcript` instead of line-numbers. Thus, readers can track back easily the evidences of the breakdowns.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 2                | 0               | 88                 | 76,5       | 85,7  |
